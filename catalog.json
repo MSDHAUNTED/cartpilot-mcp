@@ -1,0 +1,499 @@
+[
+ {
+  "id": "demo_hp1",
+  "title": "Aurion Q40 Wireless Noise-Cancelling Headphones",
+  "description": "Over-ear wireless headphones with adaptive noise cancelling.",
+  "brands": [
+   {
+    "id": "b_aurion",
+    "name": "Aurion"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://picsum.photos/seed/demo_hp1/400",
+    "is_main_image": true
+   }
+  ],
+  "category": {
+   "slug": "headphones",
+   "title": "Headphones",
+   "path": "Electronics > Audio > Headphones",
+   "has_children": false
+  },
+  "key_features": [
+   "active noise cancelling",
+   "40-hour battery",
+   "USB-C fast charge",
+   "multipoint bluetooth"
+  ],
+  "offers": [
+   {
+    "url": "https://soundmart.example/p/demo_hp1",
+    "domain": "soundmart.example",
+    "price": {
+     "price": 129.0,
+     "compare_at_price": 179.0,
+     "currency": "USD"
+    },
+    "availability": "InStock",
+    "condition": "new",
+    "max_commission_rate": 0.05
+   },
+   {
+    "url": "https://gadgethub.example/p/demo_hp1",
+    "domain": "gadgethub.example",
+    "price": {
+     "price": 134.99,
+     "compare_at_price": null,
+     "currency": "USD"
+    },
+    "availability": "InStock",
+    "condition": "new",
+    "max_commission_rate": 0.05
+   }
+  ]
+ },
+ {
+  "id": "demo_hp2",
+  "title": "Lumo Beat Pro ANC Headphones",
+  "description": "Foldable over-ear headphones with ANC and transparency mode.",
+  "brands": [
+   {
+    "id": "b_lumo",
+    "name": "Lumo"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://picsum.photos/seed/demo_hp2/400",
+    "is_main_image": true
+   }
+  ],
+  "category": {
+   "slug": "headphones",
+   "title": "Headphones",
+   "path": "Electronics > Audio > Headphones",
+   "has_children": false
+  },
+  "key_features": [
+   "active noise cancelling",
+   "30-hour battery",
+   "foldable"
+  ],
+  "offers": [
+   {
+    "url": "https://gadgethub.example/p/demo_hp2",
+    "domain": "gadgethub.example",
+    "price": {
+     "price": 99.0,
+     "compare_at_price": 119.0,
+     "currency": "USD"
+    },
+    "availability": "InStock",
+    "condition": "new",
+    "max_commission_rate": 0.05
+   }
+  ]
+ },
+ {
+  "id": "demo_hp3",
+  "title": "Kestrel Studio 7 Wired Headphones",
+  "description": "Closed-back wired studio headphones.",
+  "brands": [
+   {
+    "id": "b_kestrel",
+    "name": "Kestrel"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://picsum.photos/seed/demo_hp3/400",
+    "is_main_image": true
+   }
+  ],
+  "category": {
+   "slug": "headphones",
+   "title": "Headphones",
+   "path": "Electronics > Audio > Headphones",
+   "has_children": false
+  },
+  "key_features": [
+   "studio monitoring",
+   "detachable cable"
+  ],
+  "offers": [
+   {
+    "url": "https://soundmart.example/p/demo_hp3",
+    "domain": "soundmart.example",
+    "price": {
+     "price": 79.0,
+     "compare_at_price": null,
+     "currency": "USD"
+    },
+    "availability": "InStock",
+    "condition": "new",
+    "max_commission_rate": 0.05
+   }
+  ]
+ },
+ {
+  "id": "demo_hp4",
+  "title": "Aurion Q60 Flagship Noise-Cancelling Headphones",
+  "description": "Flagship ANC headphones with spatial audio.",
+  "brands": [
+   {
+    "id": "b_aurion",
+    "name": "Aurion"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://picsum.photos/seed/demo_hp4/400",
+    "is_main_image": true
+   }
+  ],
+  "category": {
+   "slug": "headphones",
+   "title": "Headphones",
+   "path": "Electronics > Audio > Headphones",
+   "has_children": false
+  },
+  "key_features": [
+   "active noise cancelling",
+   "50-hour battery",
+   "USB-C fast charge",
+   "spatial audio"
+  ],
+  "offers": [
+   {
+    "url": "https://soundmart.example/p/demo_hp4",
+    "domain": "soundmart.example",
+    "price": {
+     "price": 299.0,
+     "compare_at_price": 349.0,
+     "currency": "USD"
+    },
+    "availability": "InStock",
+    "condition": "new",
+    "max_commission_rate": 0.05
+   }
+  ]
+ },
+ {
+  "id": "demo_kt1",
+  "title": "Brewline 1.7L Electric Kettle with Temperature Control",
+  "description": "Gooseneck-free kettle with 5 presets.",
+  "brands": [
+   {
+    "id": "b_brewline",
+    "name": "Brewline"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://picsum.photos/seed/demo_kt1/400",
+    "is_main_image": true
+   }
+  ],
+  "category": {
+   "slug": "kettles",
+   "title": "Kettles",
+   "path": "Home > Kitchen > Kettles",
+   "has_children": false
+  },
+  "key_features": [
+   "temperature control",
+   "keep warm",
+   "stainless steel"
+  ],
+  "offers": [
+   {
+    "url": "https://homegoods.example/p/demo_kt1",
+    "domain": "homegoods.example",
+    "price": {
+     "price": 49.0,
+     "compare_at_price": 65.0,
+     "currency": "USD"
+    },
+    "availability": "InStock",
+    "condition": "new",
+    "max_commission_rate": 0.05
+   },
+   {
+    "url": "https://kitchenco.example/p/demo_kt1",
+    "domain": "kitchenco.example",
+    "price": {
+     "price": 52.0,
+     "compare_at_price": null,
+     "currency": "USD"
+    },
+    "availability": "InStock",
+    "condition": "new",
+    "max_commission_rate": 0.05
+   }
+  ]
+ },
+ {
+  "id": "demo_kt2",
+  "title": "Pebble Basic Electric Kettle 1.5L",
+  "description": "Simple, fast-boil kettle.",
+  "brands": [
+   {
+    "id": "b_pebble",
+    "name": "Pebble"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://picsum.photos/seed/demo_kt2/400",
+    "is_main_image": true
+   }
+  ],
+  "category": {
+   "slug": "kettles",
+   "title": "Kettles",
+   "path": "Home > Kitchen > Kettles",
+   "has_children": false
+  },
+  "key_features": [
+   "auto shut-off",
+   "BPA free"
+  ],
+  "offers": [
+   {
+    "url": "https://kitchenco.example/p/demo_kt2",
+    "domain": "kitchenco.example",
+    "price": {
+     "price": 24.0,
+     "compare_at_price": null,
+     "currency": "USD"
+    },
+    "availability": "InStock",
+    "condition": "new",
+    "max_commission_rate": 0.05
+   }
+  ]
+ },
+ {
+  "id": "demo_bp1",
+  "title": "Trailwise 28L Commuter Backpack",
+  "description": "Everyday commuter backpack.",
+  "brands": [
+   {
+    "id": "b_trailwise",
+    "name": "Trailwise"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://picsum.photos/seed/demo_bp1/400",
+    "is_main_image": true
+   }
+  ],
+  "category": {
+   "slug": "backpacks",
+   "title": "Backpacks",
+   "path": "Bags > Backpacks",
+   "has_children": false
+  },
+  "key_features": [
+   "laptop sleeve 16 inch",
+   "water resistant",
+   "USB charging port"
+  ],
+  "offers": [
+   {
+    "url": "https://outfitters.example/p/demo_bp1",
+    "domain": "outfitters.example",
+    "price": {
+     "price": 69.0,
+     "compare_at_price": 89.0,
+     "currency": "USD"
+    },
+    "availability": "InStock",
+    "condition": "new",
+    "max_commission_rate": 0.05
+   }
+  ]
+ },
+ {
+  "id": "demo_pb1",
+  "title": "Voltra 20000mAh Solar Power Bank",
+  "description": "Rugged power bank with built-in solar panel.",
+  "brands": [
+   {
+    "id": "b_voltra",
+    "name": "Voltra"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://picsum.photos/seed/demo_pb1/400",
+    "is_main_image": true
+   }
+  ],
+  "category": {
+   "slug": "power-banks",
+   "title": "Power Banks",
+   "path": "Electronics > Power > Power Banks",
+   "has_children": false
+  },
+  "key_features": [
+   "solar charging panel",
+   "20000mAh",
+   "USB-C PD 20W",
+   "waterproof"
+  ],
+  "offers": [
+   {
+    "url": "https://gadgethub.example/p/demo_pb1",
+    "domain": "gadgethub.example",
+    "price": {
+     "price": 39.99,
+     "compare_at_price": 59.99,
+     "currency": "USD"
+    },
+    "availability": "InStock",
+    "condition": "new",
+    "max_commission_rate": 0.05
+   },
+   {
+    "url": "https://outdoorz.example/p/demo_pb1",
+    "domain": "outdoorz.example",
+    "price": {
+     "price": 44.0,
+     "compare_at_price": null,
+     "currency": "USD"
+    },
+    "availability": "OutOfStock",
+    "condition": "new",
+    "max_commission_rate": 0.05
+   }
+  ]
+ },
+ {
+  "id": "demo_rv1",
+  "title": "Sweepo R3 Robot Vacuum",
+  "description": "Slim robot vacuum with app scheduling.",
+  "brands": [
+   {
+    "id": "b_sweepo",
+    "name": "Sweepo"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://picsum.photos/seed/demo_rv1/400",
+    "is_main_image": true
+   }
+  ],
+  "category": {
+   "slug": "robot-vacuums",
+   "title": "Robot Vacuums",
+   "path": "Home > Cleaning > Robot Vacuums",
+   "has_children": false
+  },
+  "key_features": [
+   "app control",
+   "auto recharge",
+   "pet hair"
+  ],
+  "offers": [
+   {
+    "url": "https://homegoods.example/p/demo_rv1",
+    "domain": "homegoods.example",
+    "price": {
+     "price": 219.0,
+     "compare_at_price": 279.0,
+     "currency": "USD"
+    },
+    "availability": "InStock",
+    "condition": "new",
+    "max_commission_rate": 0.05
+   }
+  ]
+ },
+ {
+  "id": "demo_ap1",
+  "title": "ClearAir 300 HEPA Air Purifier",
+  "description": "HEPA purifier for bedrooms.",
+  "brands": [
+   {
+    "id": "b_clearair",
+    "name": "ClearAir"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://picsum.photos/seed/demo_ap1/400",
+    "is_main_image": true
+   }
+  ],
+  "category": {
+   "slug": "air-purifiers",
+   "title": "Air Purifiers",
+   "path": "Home > Air Quality > Air Purifiers",
+   "has_children": false
+  },
+  "key_features": [
+   "true HEPA",
+   "covers 300 sq ft",
+   "quiet sleep mode"
+  ],
+  "offers": [
+   {
+    "url": "https://homegoods.example/p/demo_ap1",
+    "domain": "homegoods.example",
+    "price": {
+     "price": 119.0,
+     "compare_at_price": 149.0,
+     "currency": "USD"
+    },
+    "availability": "InStock",
+    "condition": "new",
+    "max_commission_rate": 0.05
+   }
+  ]
+ },
+ {
+  "id": "demo_vape1",
+  "title": "CloudX Disposable Vape",
+  "description": "Included to demo category blocking.",
+  "brands": [
+   {
+    "id": "b_cloudx",
+    "name": "CloudX"
+   }
+  ],
+  "images": [
+   {
+    "url": "https://picsum.photos/seed/demo_vape1/400",
+    "is_main_image": true
+   }
+  ],
+  "category": {
+   "slug": "vapes",
+   "title": "Vapes",
+   "path": "Tobacco > Vapes",
+   "has_children": false
+  },
+  "key_features": [
+   "5000 puffs"
+  ],
+  "offers": [
+   {
+    "url": "https://smokeshop.example/p/demo_vape1",
+    "domain": "smokeshop.example",
+    "price": {
+     "price": 19.0,
+     "compare_at_price": null,
+     "currency": "USD"
+    },
+    "availability": "InStock",
+    "condition": "new",
+    "max_commission_rate": 0.05
+   }
+  ]
+ }
+]
